@@ -1,0 +1,1 @@
+# yii2-save-or-fail-trait
